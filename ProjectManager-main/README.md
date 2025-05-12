@@ -1,4 +1,4 @@
-Project Vista is a cloud-based project management tool designed to streamline task planning, tracking, and team collaboration. It offers real-time synchronization, secure JWT-based user authentication, and role-based access control, allowing teams to manage projects efficiently. With features like task prioritization, deadline reminders, visual analytics, and integrated commenting, within a responsive, user-friendly interface built using the MERN stack and modern frontend technologies.
+Project Vista is a cloud-based project management tool designed to streamline task planning, tracking, and team collaboration. It offers real-time synchronization, secure JWT-based user authentication, and role-based access control, allowing teams to manage projects efficiently. With features like task prioritization, deadline reminders, visual analytics, and integrated commenting, within a responsive, user-friendly interface.
 
 ![image](https://github.com/user-attachments/assets/f3d1995d-ac76-428d-a124-35d48f5afc51)
 
