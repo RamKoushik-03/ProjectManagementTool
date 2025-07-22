@@ -47,7 +47,7 @@ io.on('connection', (socket) => {
   socket.on('join-user-room', (userId) => {
     socket.join(userId);
     userSockets.set(userId, socket.id);
-    console.log("User ${userId} joined their room");
+    // console.log("User ${userId} joined their room");
   });
 
   // Handle admin notifications
